@@ -1,0 +1,11 @@
+# ignore 1 buah file
+.env
+
+# ignore node_modules
+node_modules/
+
+# ignore node_modules
+#node_modules/*.py
+
+# ignore spesifik .txt
+*.txt
